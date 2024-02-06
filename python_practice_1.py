@@ -1,0 +1,1 @@
+print('Nazar Mashynnyk, KN-8')
